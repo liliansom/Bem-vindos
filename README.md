@@ -17,4 +17,3 @@ Hi!
 - I'm interested in technology, animes, animals and I like to learn new things. <3
 - I graduated college in nursing school at São Paulo University and I'm studying Python 3 and other languages to start a new project in life.
 - This is gonna be the space to write about my progress and projects.
-- 
